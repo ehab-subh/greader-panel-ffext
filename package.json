@@ -1,8 +1,10 @@
 {
   "id": "greader-panel@erikvold.com",
   "name": "greader-panel",
+  "fullName": "GReader Panel",
   "author": "Erik Vold <erikvvold@gmail.com> (http://erikvold.com)",
   "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1.1",
-  "description": "Displays mobile Google Reader in a panel."
+  "version": "0.1.2",
+  "description": "Displays mobile Google Reader in a panel.",
+  "dependencies": ["addon-kit", "api-utils", "toolbarbutton"]
 }
